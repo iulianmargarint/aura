@@ -1,0 +1,6 @@
+{
+  "name": "AURA",
+  "short_name": "AURA",
+  "start_url": "/",
+  "display": "standalone"
+}
